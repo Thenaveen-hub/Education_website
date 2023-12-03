@@ -15,6 +15,7 @@ The website will be easy to use and will offer a variety of features that will h
 
 ### Preview Link : https://thenaveen-hub.github.io/Education_website 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
 ## Technologies Used !
 <div align="center">
@@ -28,7 +29,8 @@ The website will be easy to use and will offer a variety of features that will h
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
 </div>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
+
+
 ## Snapshots 
 
 ### HOME PAGE
@@ -42,12 +44,9 @@ The website will be easy to use and will offer a variety of features that will h
 ### LOGIN 
 ![Screenshot (153)](https://github.com/iranreyes/spotyngular/assets/140473308/13c35069-eb0b-4647-8def-cf392b1e1886)
 
-###
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome.<br />
-Feel free | if you want to contribute.<br />
+## Steps to run this project
 
 ```bash
 # Clone this project
@@ -64,7 +63,13 @@ $ run index.html on your browser
 
 # The server will initialize in the <http://localhost:3000>
 ```
+> ### Simply export the jar file and run index.html file
+> OR visit Here : -> https://thenaveen-hub.github.io/Education_website
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome.<br />
+Give a proper credit to me if you are using it for commercial purposes <br />
 
 ## Show your support
 
